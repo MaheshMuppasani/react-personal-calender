@@ -1,0 +1,259 @@
+{
+  "events": {
+    "2021/1/1": {
+      "8:15 AM": [
+        {
+          "description": "",
+          "eDate": "1-1-2021",
+          "eTime": "8:30 AM",
+          "sDate": "1-1-2021",
+          "sTime": "8:15 AM",
+          "title": "1st january"
+        }
+      ]
+    },
+    "2021/1/14": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "14-1-2021",
+          "eTime": "11:59 PM",
+          "sDate": "14-1-2021",
+          "sTime": "12:00 AM",
+          "title": "Pongal"
+        }
+      ]
+    },
+    "2020/11/14": {
+      "12:00 AM": [
+        {
+          "description": "Festival of Lights",
+          "eDate": "14-11-2020",
+          "eTime": "11:59 PM",
+          "sDate": "14-11-2020",
+          "sTime": "12:00 AM",
+          "title": "Diwali"
+        }
+      ]
+    },
+    "2020/11/15": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "15-11-2020",
+          "eTime": "11:59 PM",
+          "sDate": "15-11-2020",
+          "sTime": "12:00 AM",
+          "title": "Govardhan puja"
+        }
+      ]
+    },
+    "2021/8/15": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "15-8-2021",
+          "eTime": "11:59 PM",
+          "sDate": "15-8-2021",
+          "sTime": "12:00 AM",
+          "title": "Independance Day"
+        }
+      ]
+    },
+    "2020/10/25": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "25-10-2020",
+          "eTime": "11:59 PM",
+          "sDate": "25-10-2020",
+          "sTime": "12:00 AM",
+          "title": "Dussehra"
+        }
+      ]
+    },
+    "2020/12/25": {
+      "12:00 AM": [
+        {
+          "description": "Happy Holidays!",
+          "eDate": "25-12-2020",
+          "eTime": "11:59 PM",
+          "sDate": "25-12-2020",
+          "sTime": "12:00 AM",
+          "title": "Christmas"
+        }
+      ]
+    },
+    "2021/1/26": {
+      "8:00 AM": [
+        {
+          "description": "National Holiday!!!",
+          "eDate": "26-1-2021",
+          "eTime": "8:30 AM",
+          "sDate": "26-1-2021",
+          "sTime": "8:00 AM",
+          "title": "Republic Day"
+        }
+      ]
+    },
+    "2021/1/27": {
+      "11:30 AM": [
+        {
+          "description": "",
+          "eDate": "27-1-2021",
+          "eTime": "12:30 AM",
+          "people": [
+            {
+              "name": "shiva kumar"
+            },
+            {
+              "name": "mahesh"
+            }
+          ],
+          "sDate": "27-1-2021",
+          "sTime": "11:30 AM",
+          "title": "UI meeting"
+        }
+      ]
+    },
+    "2021/8/27": {
+      "12:00 AM": [
+        {
+          "description": "try to learn some good habits and avoid things which are bad,spend time with friends .",
+          "eDate": "27-8-2021",
+          "eTime": "11:59 PM",
+          "sDate": "27-8-2021",
+          "sTime": "12:00 AM",
+          "title": "Mahesh's birthday"
+        }
+      ]
+    },
+    "2021/1/28": {
+      "8:00 AM": [
+        {
+          "description": "",
+          "eDate": "28-1-2021",
+          "eTime": "8:30 AM",
+          "sDate": "28-1-2021",
+          "sTime": "8:00 AM",
+          "title": "test3"
+        }
+      ],
+      "9:00 AM": [
+        {
+          "description": "",
+          "eDate": "28-1-2021",
+          "eTime": "9:30 AM",
+          "people": [
+            {
+              "name": "mahesh"
+            },
+            {
+              "name": "shiva kumar"
+            }
+          ],
+          "sDate": "28-1-2021",
+          "sTime": "9:00 AM",
+          "title": "test1"
+        }
+      ]
+    },
+    "2020/12/28": {
+      "8:30 PM": [
+        {
+          "description": "",
+          "eDate": "28-12-2020",
+          "eTime": "9:30 PM",
+          "people": [
+            {
+              "name": "Trainees"
+            },
+            {
+              "name": "Vasu"
+            }
+          ],
+          "sDate": "28-12-2020",
+          "sTime": "8:30 PM",
+          "title": "Daily syncup meeting"
+        }
+      ]
+    },
+    "2020/10/29": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "29-10-2020",
+          "eTime": "11:59 PM",
+          "sDate": "29-10-2020",
+          "sTime": "12:00 AM",
+          "title": "Milad-Un-Nabi"
+        }
+      ]
+    },
+    "2020/10/31": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "31-10-2020",
+          "eTime": "11:59 PM",
+          "sDate": "31-10-2020",
+          "sTime": "12:00 AM",
+          "title": "Maharshi Valmiki Jayanthi"
+        }
+      ]
+    },
+    "2021/12/31": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "14-1-2021",
+          "eTime": "2:00 PM",
+          "sDate": "14-1-2021",
+          "sTime": "12:00 AM",
+          "title": "year end day"
+        }
+      ]
+    },
+    "2021/1/4": {
+      "9:30 AM": [
+        {
+          "description": "",
+          "eDate": "4-1-2021",
+          "eTime": "12:30 AM",
+          "sDate": "4-1-2021",
+          "sTime": "9:30 AM",
+          "title": "UI training meeting"
+        }
+      ]
+    },
+    "2020/11/4": {
+      "12:00 AM": [
+        {
+          "description": "",
+          "eDate": "4-11-2020",
+          "eTime": "11:59 PM",
+          "sDate": "4-11-2020",
+          "sTime": "12:00 AM",
+          "title": "Karaka chaturdi"
+        }
+      ]
+    },
+    "2021/1/9": {
+      "8:00 AM": [
+        {
+          "description": "This is generated By Manohar",
+          "eDate": "10-1-2021",
+          "eTime": "8:30 AM",
+          "people": [
+            {
+              "name": "Mahesh"
+            }
+          ],
+          "sDate": "9-1-2021",
+          "sTime": "8:00 AM",
+          "title": "Mahesh Copy"
+        }
+      ]
+    }
+  }
+}

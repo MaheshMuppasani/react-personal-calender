@@ -1,0 +1,13 @@
+.calender-nav {
+  background: #edebe9;
+  user-select: none;
+  color: #005a9e !important;
+}
+
+.calender-navigators {
+  justify-content: space-evenly;
+}
+
+.mini-calender {
+  font-weight: 700;
+}
